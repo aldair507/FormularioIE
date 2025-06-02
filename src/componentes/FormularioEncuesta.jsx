@@ -53,10 +53,10 @@ const EncuestaEducativa = () => {
             </div>
             <div className="text-center">
               <h1 className="text-4xl font-bold text-white mb-2">
-                Encuesta Educativa Institucional
+                Encuesta institución educativa la carbonera
               </h1>
               <p className="text-green-100 text-lg">
-                Instituto Educativo - Bolívar, Cauca
+                institución educativa la carbonera - Bolívar, Cauca
               </p>
             </div>
           </div>
@@ -316,7 +316,7 @@ const EncuestaEducativa = () => {
               <div className="bg-green-600 p-2 rounded-full">
                 <BookOpen size={20} className="text-white" />
               </div>
-              <h3 className="text-xl font-semibold">Instituto Educativo</h3>
+              <h3 className="text-xl font-semibold">Institución educativa la carbonera</h3>
             </div>
             <p className="text-gray-400 mb-2">Bolívar, Cauca - Colombia</p>
             <p className="text-gray-500 text-sm">
